@@ -53,4 +53,6 @@
 
 3. Crear un nombre de usuario y un correo con "git config --global user.name "Rodeyro"" y "git config --global user.email antoniojuradorodeyro@gmail.com"
 
-4.  
+4. Después, comprobar con "git config --list" si se ha ejecutado el anterior paso correctamente
+
+5. 
