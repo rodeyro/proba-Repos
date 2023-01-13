@@ -47,5 +47,10 @@
 
 ## Pasos a seguir: 
 
-1. Inicializar repo local con el comado "git init"
+1. Instalar git con "winget install git.git"
 
+2. Inicializar repo local con el comado "git init"
+
+3. Crear un nombre de usuario y un correo con "git config --global user.name "Rodeyro"" y "git config --global user.email antoniojuradorodeyro@gmail.com"
+
+4.  
