@@ -65,7 +65,7 @@
 1. git status
     (Permite ver el estado de tu trabajo actual)
     
-2. git add " "
+2. git add "texto"
     (Hace lo mismo que "git add ." aunque ahora podrás selecionar lo que quieres guardar o no)
     
 3. git diff
@@ -73,3 +73,6 @@
     
 4. git show
     (Permite mostrar los datos actuales de tu trabajo coo por ejemplo tu commit actual)
+    
+5. git commit --around -m "texto"
+    (Modifica el último commit añadido)
