@@ -55,4 +55,21 @@
 
 4. Después, comprobar con "git config --list" si se ha ejecutado el anterior paso correctamente
 
-5. Finalmente para guardar cualquier cosa que realicas, tendrías que hacer estos 3 comandos: "git add ." para leer los cambios del GIT, "git commit -m "Creación do proxecto "" para guardar todo lo que hiciste hasta el momento y "git push -u origin main" para mandarlo todo a tu main.
+5. Proseguimos con el comando "git remote add origin https://github.com/rodeyro/proba-Repos.git" que nos permite crear un enlace entre nuestros trabajos hasta el repos para poder proseguir.
+
+6. Finalmente para guardar cualquier cosa que realicas, tendrías que hacer estos 3 comandos: "git add ." para leer los cambios del GIT, "git commit -m "Creación do proxecto "" ( Si quieres ver que comits tienes hasta ese momento, "git log --oneline --graph --decorate --all" ) para guardar todo lo que hiciste hasta el momento y "git push -u origin main" para mandarlo todo a tu main.
+
+
+## Nuevos comandos: 
+
+1. git status
+    (Permite ver el estado de tu trabajo actual)
+    
+2. git add " "
+    (Hace lo mismo que "git add ." aunque ahora podrás selecionar lo que quieres guardar o no)
+    
+3. git diff
+    ( Permite establecer las diferencias en los orígenes de datos de Git)
+    
+4. git show
+    (Permite mostrar los datos actuales de tu trabajo coo por ejemplo tu commit actual)
