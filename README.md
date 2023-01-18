@@ -57,4 +57,4 @@
 
 5. Ahora realizaresmos un "git init" y ya tendríamos todo listo para realizar cualquier cosa solo con GIT.
 
-6.Finalmente para guardar tendría que hacer estos 3 comandos: "git add ." para leer los cambios del GIT, "git commit -m "Creación do proxecto "" para guardar todo lo que hiciste hasta el momento y "git push -u origin main" para mandarlo todo a tu main.
+6. Finalmente para guardar tendría que hacer estos 3 comandos: "git add ." para leer los cambios del GIT, "git commit -m "Creación do proxecto "" para guardar todo lo que hiciste hasta el momento y "git push -u origin main" para mandarlo todo a tu main.
