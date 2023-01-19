@@ -68,7 +68,7 @@
 2. git add "texto"
     (Hace lo mismo que "git add ." aunque ahora podrás selecionar lo que quieres guardar o no)
     
-3. git diff
+3. git diff "..." , "..."
     ( Permite establecer las diferencias en los orígenes de datos de Git)
     
 4. git show
@@ -76,3 +76,16 @@
     
 5. git commit --around -m "texto"
     (Modifica el último commit añadido)
+
+6. git reset --hard 8c808
+    (Permite volver al commit seleccionado)
+
+7. git remote remove origin
+    (Permite remover el primer commit)
+    
+8. git log
+    (permite ver el historico dos commits)
+    
+9. git annotate "..."
+    (permite ver todos los cambios y quienes los hayan realizado en un archivo)
+    
