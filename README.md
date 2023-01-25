@@ -89,3 +89,17 @@
 9. git annotate "..."
     (permite ver todos los cambios y quienes los hayan realizado en un archivo)
     
+10. git checkout -- indice.txt
+    (permite desacer los cambios de un archivo)
+    
+11. git reset indice.txt
+    (permirte resetear un fichero)
+    
+12. git clean -f
+    (borrar fichero que hayamos agragado en el último commit)
+    
+13. git reset --hard HEAD~1    
+    (permite volver a donde estaba, pero descartará sus cambios locales, que no desea)
+
+14. git reset --soft HEAD~1
+    (elimine la última confirmación de la rama actual, pero los cambios en el archivo permanecerán en su árbol de trabajo)
