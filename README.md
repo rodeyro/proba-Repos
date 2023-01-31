@@ -103,3 +103,27 @@
 
 14. git reset --soft HEAD~1
     (elimine la última confirmación de la rama actual, pero los cambios en el archivo permanecerán en su árbol de trabajo)
+    
+15. git branch bibliografia
+    (Permite crear una rama)
+    
+16. git branch -av
+    (mostrar las ramas del repositorio.)
+    
+17. git checkout bibliografia
+    (Permite cambiar de rama a la deseada)
+    
+18. cat > bibliografia.txt
+    (Permite craear un fichero con el nombre a tu gusto)
+    
+19. git merge bibliografia
+    (Mostrar la historia del repositorio incluyendo todas las ramas.)
+    
+20. git branch -d bibliografia
+    (Eliminar una rama)
+
+21. git merge bibliografia
+    (Fusionar varias ramas en una)
+    
+22. git nano bibliografia
+    (esolver conflictos dejando el fichero con algunas preferencias)    
